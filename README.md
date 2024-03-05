@@ -15,6 +15,9 @@ Git add: Digunakan untuk perintah menambahkan file baru ke repository yang baru 
 ```
 git add .
 ```
+https://github.com/royswanimbo/sacode-2024-html-css--tugas-pertemuan-ke-9/tree/main
+```
+git min .
 Git commit: Digunakan untuk menyimpan apabila terjadi perubahan dan dilakukan pada repository jarak jauh, namun tidak bisa melakukan perubahan. 
 ```
 git commit
