@@ -50,6 +50,6 @@ Git push: Perintah yang digunakan untuk mentransfer perubahan file ke repository
 git push
 ```
 Lihat sapunya hasil cindig melalui link GitHub Pages berikut ini :
-https://github.com/royswanimbo/sacode-2024-html-css--tugas-pertemuan-ke-9.git
+https://github.com/royswanimbo/sacode-2024-html-css--tugas-pertemuan-ke-9
 
 
