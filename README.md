@@ -1,5 +1,4 @@
-# sacode-2024-html-css--tugas-pertemuan-ke-9
-Tugas Pertemuan Ke-9# Belajar coding dasar di SaCode: Mendalami GitHub 
+# Belajar coding dasar di SaCode: Mendalami GitHub 
 
 ## Git Commands
 
@@ -15,9 +14,6 @@ Git add: Digunakan untuk perintah menambahkan file baru ke repository yang baru 
 ```
 git add .
 ```
-https://github.com/royswanimbo/sacode-2024-html-css--tugas-pertemuan-ke-9/tree/main
-```
-git min .
 Git commit: Digunakan untuk menyimpan apabila terjadi perubahan dan dilakukan pada repository jarak jauh, namun tidak bisa melakukan perubahan. 
 ```
 git commit
@@ -26,5 +22,6 @@ git commit
 Git push: Perintah yang digunakan untuk mentransfer perubahan file ke repository jarak jauh setelah melakukan perubahan. 
 ```
 git push
-https://github.com/royswanimbo/sacode-2024-html-css--tugas-pertemuan-ke-9/tree/main
+```
+Lihat sapunya hasil condig melalui link GitHub Pages berikut ini :
 
